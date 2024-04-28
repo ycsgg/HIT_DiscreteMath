@@ -1,4 +1,10 @@
 /.vscode
 *.pdf
 *.synctex.gz
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.xdv
+*.toc
 !main.pdf
